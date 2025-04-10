@@ -23,3 +23,9 @@ Control the Snake: Use the arrow keys to direct the snake towards the food.
 Avoid Collisions: Steer clear of the walls and the snake's own tail to keep playing.
 
 Score Points: Every time the snake eats food, your score increases and the snake grows.
+
+#
+#
+#
+#
+#
