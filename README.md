@@ -1,7 +1,7 @@
 #Snake Game
 A modern take on the classic Snake arcade game. Guide the snake with your arrow keys to collect food, grow longer, and rack up your score—all while avoiding collisions with the walls or your own tail.
 
-#Overview
+##Overview
 Objective: Eat food to grow the snake and increase your score.
 
 Gameplay: The snake moves continuously. Use arrow keys (Up, Down, Left, Right) to change its direction. With each piece of food consumed, the snake grows longer, making navigation increasingly challenging.
